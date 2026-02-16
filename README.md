@@ -122,7 +122,7 @@ Relationships are properly defined with single-direction filtering for optimal p
 
 ## 👨‍💻 Author
 
-**Your Name**  
+**Roshan Kumar Ram**  
 Business Intelligence Developer | Data Analyst
 
 Feel free to connect: [LinkedIn](https://www.linkedin.com/in/roshan-kumar-ram-512457246/) | [Email](mailto:okroshan4u@gmail.com) 
