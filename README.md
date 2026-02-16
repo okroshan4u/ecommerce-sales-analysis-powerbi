@@ -2,8 +2,9 @@
 
 An interactive **Power BI dashboard** built to analyze and visualize ecommerce sales performance across multiple dimensions: revenue, profit, customer insights, product categories, geography, and payment behavior.
 
-![Dashboard Preview](dashboard-preview.png)  
-*(Add your actual screenshot filename here)*
+![Mahadev Ecommerce Sales Dashboard](https://github.com/okroshan4u/ecommerce-sales-analysis-powerbi/raw/main/Mahadev%20Ecommerce%20sales%20dashboard%20screenshot.jpg)
+
+*Screenshot of the Mahadev Ecommerce Sales Dashboard in Power BI (dark theme)*
 
 ## 📌 Overview
 
