@@ -125,6 +125,6 @@ Relationships are properly defined with single-direction filtering for optimal p
 **Your Name**  
 Business Intelligence Developer | Data Analyst
 
-Feel free to connect: [LinkedIn](#) | [Email](#) | [Portfolio](#)
+Feel free to connect: [LinkedIn](https://www.linkedin.com/in/roshan-kumar-ram-512457246/) | [Email](mailto:okroshan4u@gmail.com) 
 
 ⭐ If you find this dashboard helpful, give it a star!
